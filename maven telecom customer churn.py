@@ -16,6 +16,7 @@ df.head()
 4  0013-EXCHZ  Female  ...  Dissatisfaction            Network reliability
 
 [5 rows x 38 columns]
+# Checking for missing values
 df.isnull().sum()
 Customer ID                             0
 Gender                                  0
