@@ -238,3 +238,5 @@ Name: proportion, dtype: float64
    offering better devices, data and invreasing download speed. Furthermore, new customers should be offered other Offers and contracts except Offer E
    and Month-to-Month respectively.
 """
+# Datasource: www.mavenanalytics.io
+# Data visualization: https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn?publish=yes
