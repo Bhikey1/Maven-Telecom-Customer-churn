@@ -239,4 +239,4 @@ Name: proportion, dtype: float64
    and Month-to-Month respectively.
 """
 # Datasource: www.mavenanalytics.io
-# Data visualization: https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn?publish=yes
+# Data visualization: [Tableau](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn?publish=yes)
