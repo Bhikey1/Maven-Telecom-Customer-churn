@@ -16,7 +16,7 @@ Recommended Analysis: 1. How many customers joined the company during the last q
    and Month-to-Month respectively.
 
 ### Data Visualization
-![Maven Telecom customer Churn](https://github.com/Bhikey1/Maven-Telecom-Customer-churn/blob/main/Maven%20Telecom%20Churn%20(1).png)
+![Maven Telecom customer Churn](https://www.github.com/Bhikey1/Maven-Telecom-Customer-churn/blob/main/Maven%20Telecom%20Churn%20(1).png)
 
 ### Datasource: www.mavenanalytics.io
 ### Data visualization: [Tableau](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn?publish=yes)
